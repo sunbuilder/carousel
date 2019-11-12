@@ -1,2 +1,2 @@
 # carousel
-css
+纯css轮播图
